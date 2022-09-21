@@ -1,0 +1,45 @@
+.bloc_page{
+    width: 1000px;
+    align-items: center;
+}
+
+
+
+
+
+body{
+    background-color: rgb(29, 10, 203);
+    color: rgb(249, 212, 1);
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px outset rgb(249, 212, 1);
+    align-items: flex-end; 
+
+}
+
+.image_licorne {
+    width: 150px;
+    height: auto;
+
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: space-between;  
+     
+}
+
+nav a{
+    margin-right: 73px;
+    font-size: 20px;
+    margin-top: 20px;
+    color: rgb(249, 212, 1);
+}   
+
+.photo_chateau {
+    height: auto;   
+    width: 1000px
+}
